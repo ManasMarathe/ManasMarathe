@@ -107,7 +107,7 @@ I'm a **Software Development Engineer I** at **Gupshup**, passionate about build
 ### 💼 Looking to Hire?
 
 > [!IMPORTANT]  
-> 📄 **[Download My Resume](https://drive.google.com/your-resume-link)** *(Update this link with your actual resume)*
+> 📄 **[Download My Resume](https://drive.google.com/file/d/1vu8kZJj0L0dAe4rRoRA8DG4POUxTRudB/view?usp=sharing)**
 
 **What I bring to the table:**
 - ✅ **Backend Engineering** with Java/Spring Boot & Python
