@@ -97,7 +97,7 @@ I'm a **Software Development Engineer I** at **Gupshup**, passionate about build
 > 📄 **[Download My Resume](https://drive.google.com/file/d/1vu8kZJj0L0dAe4rRoRA8DG4POUxTRudB/view?usp=sharing)**
 
 **What I bring to the table:**
-- ✅ **Backend Engineering** with Java/Spring Boot & Python
+- ✅ **Backend Engineering** with Java/Spring Boot & GO
 - ✅ **Distributed Systems** & Event-Driven Architecture
 - ✅ **High-Scale Systems** (100M+ daily operations)
 - ✅ **Cloud-Native** deployment on AWS & Kubernetes
