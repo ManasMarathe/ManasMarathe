@@ -13,7 +13,7 @@
 I'm a **Software Development Engineer I** at **Gupshup**, passionate about building **scalable backend systems** that handle millions of requests! I specialize in designing distributed systems, event-driven architectures, and high-throughput messaging platforms.
 
 - 🔭 Currently working on **distributed messaging systems** processing **100M+ messages daily**
-- 🌱 Building with **Java, Spring Boot, Python, Microservices, and Kubernetes**
+- 🌱 Building with **Java, Spring Boot, GO, Microservices, and Kubernetes**
 - 🎯 Focused on **system design, scalability, and cloud-native solutions**
 - 🚀 Achieved **99.99% uptime** and **30% improvement** in delivery success rates
 - 📊 Love working with **databases, event-driven patterns, and real-time systems**
